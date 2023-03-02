@@ -11,4 +11,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-![ask20 architecture diagram](https://user-images.githubusercontent.com/45411594/221093149-72135fbc-96e0-416f-9afa-13842d2f1fd9.png)
+
